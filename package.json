@@ -1,0 +1,24 @@
+{
+  "name": "fossa-tests",
+  "version": "1.0.0",
+  "description": "Code designed to test FOSSA features. Do not trust any license in here - they are all for testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newrelic-csec/fossa-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/newrelic-csec/fossa-tests/issues"
+  },
+  "homepage": "https://github.com/newrelic-csec/fossa-tests#readme",
+  "dependencies": {
+    "spdx-expression-parse": "^4.0.0"
+  }
+}
