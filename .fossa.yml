@@ -1,0 +1,5 @@
+version: 3
+
+customLicenseSearch:
+  - matchCriteria: (?i)New Relic Software License
+    name: New Relic Software License
